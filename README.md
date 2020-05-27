@@ -1,1 +1,1 @@
-# OOP_Lab_08
+# OOP Lab #08 Design patterns
